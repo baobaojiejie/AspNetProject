@@ -1,0 +1,12 @@
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\StudentSystemData.dll
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\StudentSystemData.pdb
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\obj\Debug\StudentSystemData.csproj.AssemblyReference.cache
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\obj\Debug\StudentSystemData.csproj.CoreCompileInputs.cache
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\obj\Debug\StudentSystemData.dll
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\obj\Debug\StudentSystemData.pdb
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\StudentSystemData.dll.config
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\EntityFramework.dll
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\EntityFramework.xml
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xiaoqiu\Desktop\Asp.net\StudentSystemData\obj\Debug\StudentSystemData.csproj.CopyComplete
